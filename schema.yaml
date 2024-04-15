@@ -1,0 +1,7 @@
+COLUMNS:
+COLUMNS:
+  review: object
+  sentiment: object
+
+TARGET_COLUMN:
+  name: sentiment

@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+tensorflow
+scikit-learn
+tqdm
+python-box==6.0.2
+notebook
+gdown
+ensure==1.0.2
+pyYAML
+keras
+-e .
