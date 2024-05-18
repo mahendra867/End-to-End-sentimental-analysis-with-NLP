@@ -80,7 +80,7 @@ The main theme of this project is to leverage NLP techniques and deep learning t
 Clone the repository
 
 ```bash
-https://github.com/mahendra867/random_datasets/raw/main/Heart_csv.zip
+https://github.com/mahendra867/End-to-End-sentimental-analysis-with-NLP.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
